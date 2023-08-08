@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 30px auto;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  input[type="number"] {
+    width: 50px;
+    text-align: center;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+  }
+  
+  /* Add additional CSS to change the color of the output elements to green */
+  td.green {
+    background-color: green;
+    color: white;
+  }
+  
